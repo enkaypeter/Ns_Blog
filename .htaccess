@@ -1,0 +1,9 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^blog\.novusmentis\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.blog\.novusmentis\.com$
+RewriteRule ^(.*)$ "http\:\/\/novusmentis\.com\/index\.php\/blog\/$1" [R=301,L]
+

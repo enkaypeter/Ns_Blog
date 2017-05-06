@@ -1,0 +1,57 @@
+[30-Jul-2016 23:10:21 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[30-Jul-2016 23:10:36 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:10:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:10:36 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:15:32 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'198.54.116.204' (using password: NO) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:15:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:15:32 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:16:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'198.54.116.204' (using password: NO) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:16:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:16:23 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:20:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:20:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:20:02 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:27:56 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'novuftff_enkay'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:27:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:27:56 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:28:55 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'novuftff_enkay'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:28:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:28:55 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:29:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'novuftff_enkay'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:29:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:29:12 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:30:17 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'novuftff_enkay'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:30:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:30:17 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:31:54 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'novuftff_enkay'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:31:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:31:54 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:32:16 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'novuftff_enkay'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:32:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:32:16 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:32:41 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'novuftff_enkay'@'198.54.116.204' (using password: YES) in /home/novuftff/public_html/blog/admin/includes/functions.php on line 4
+[30-Jul-2016 23:32:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 13
+[30-Jul-2016 23:32:41 America/New_York] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/novuftff/public_html/blog/admin/login.php on line 14
+[30-Jul-2016 23:34:56 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[30-Jul-2016 23:36:26 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[30-Jul-2016 23:40:31 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[30-Jul-2016 23:40:36 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[30-Jul-2016 23:40:51 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[30-Jul-2016 23:42:49 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[30-Jul-2016 23:43:00 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/novuftff/public_html/blog/admin/includes/navBar.php on line 2
+[31-Jul-2016 00:21:04 America/New_York] PHP Notice:  Undefined index: id in /home/novuftff/public_html/blog/admin/postPage.php on line 7
+[31-Jul-2016 00:21:04 America/New_York] PHP Notice:  Undefined variable: miniTit in /home/novuftff/public_html/blog/admin/postPage.php on line 131
+[31-Jul-2016 00:25:01 America/New_York] PHP Notice:  Undefined index: id in /home/novuftff/public_html/blog/admin/postPage.php on line 7
+[31-Jul-2016 00:25:01 America/New_York] PHP Notice:  Undefined variable: miniTit in /home/novuftff/public_html/blog/admin/postPage.php on line 131
+[31-Jul-2016 00:32:02 America/New_York] PHP Notice:  Undefined index: id in /home/novuftff/public_html/blog/admin/postPage.php on line 7
+[31-Jul-2016 00:32:02 America/New_York] PHP Notice:  Undefined variable: miniTit in /home/novuftff/public_html/blog/admin/postPage.php on line 131
+[31-Jul-2016 04:43:24 America/New_York] PHP Notice:  Undefined variable: miniTit in /home/novuftff/public_html/blog/admin/postPage.php on line 131
+[09-Aug-2016 01:53:52 America/New_York] PHP Notice:  Undefined index: id in /home/novuftff/public_html/blog/admin/postPage.php on line 7
+[09-Aug-2016 01:53:52 America/New_York] PHP Notice:  Undefined variable: imageDis in /home/novuftff/public_html/blog/admin/postPage.php on line 167
+[09-Aug-2016 01:53:52 America/New_York] PHP Notice:  Undefined variable: imageDis2 in /home/novuftff/public_html/blog/admin/postPage.php on line 211
+[09-Aug-2016 01:54:51 America/New_York] PHP Notice:  Undefined index: id in /home/novuftff/public_html/blog/admin/postPage.php on line 7
+[09-Aug-2016 01:54:51 America/New_York] PHP Notice:  Undefined variable: imageDis in /home/novuftff/public_html/blog/admin/postPage.php on line 167
+[09-Aug-2016 01:54:51 America/New_York] PHP Notice:  Undefined variable: imageDis2 in /home/novuftff/public_html/blog/admin/postPage.php on line 211
+[09-Aug-2016 01:54:58 America/New_York] PHP Notice:  Undefined index: id in /home/novuftff/public_html/blog/admin/postPage.php on line 7
+[09-Aug-2016 01:54:58 America/New_York] PHP Notice:  Undefined variable: imageDis in /home/novuftff/public_html/blog/admin/postPage.php on line 167
+[09-Aug-2016 01:54:58 America/New_York] PHP Notice:  Undefined variable: imageDis2 in /home/novuftff/public_html/blog/admin/postPage.php on line 211
